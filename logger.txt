@@ -1,0 +1,5 @@
+Function name : multiply
+Function name : add
+Function name : decorator
+Function name : wrapper
+Function name : decorator
